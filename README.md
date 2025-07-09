@@ -11,6 +11,5 @@ I'm a passionate developer with a love for technology and problem-solving. I enj
 ## Contact Me
 - **GitHub:** [LePhamNhatLe](https://github.com/LePhamNhatLe)
 - **LinkedIn:** [Le Pham Nhat Le](https://www.linkedin.com/in/lê-phạm-nhật-lễ-803179336)
-- **Email:** [le.pham.nhat.le@example.com](mailto:le.pham.nhat.le@example.com)
-
+- **Email:** [le.pham.nhat.le@example.com](mailto:nhatle.app@gmail.com)
 Let's connect and collaborate on exciting projects!

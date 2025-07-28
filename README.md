@@ -1,12 +1,12 @@
 # Hi there, I'm Le Pham Nhat Le 👋
 
 ## About Me
-I'm a passionate developer with a love for technology and problem-solving. I enjoy working on innovative projects and continuously learning new skills to keep up with the ever-evolving tech landscape.
+I’m a confident developer with a strong passion for learning and exploring new technologies. I’m enthusiastic about working on innovative projects and continuously honing my skills to stay at the forefront of mobile development.
 
 ## Skills
-- **Languages:** C, C#, C++, Kotlin, Flutter, Java (Basic)
-- **Databases:** MongoDB, MySQL
-- **Tools:** Git, Docker, GitHub, XAMPP
+- **Languages:** C, C#, C++, Kotlin, Flutter, Java, PHP (Basic)
+- **Databases:** SQL Server, MySQL
+- **Tools:** Git, GitHub, XAMPP, Postman
 
 ## Contact Me
 - **GitHub:** [LePhamNhatLe](https://github.com/LePhamNhatLe)

@@ -1,26 +1,37 @@
 # Lê Phạm Nhật Lễ
 
-**IT Support | Network Support | System Administration**
+**CPE Operations | Network Support | IT Support**
 
-IT fresher based in Ho Chi Minh City, Vietnam, focused on practical troubleshooting, user support, networking, and system operations. I am currently gaining hands-on experience with CPE operations, connectivity troubleshooting, and remote network support while continuing to build real-world projects.
+I am currently working as a **CPE Staff member at Công ty Cổ phần Công nghệ Tiên Phát (TPCOMS)** in Ho Chi Minh City, Vietnam.
+
+My main career direction is **CPE operations, networking, and network support**. Alongside my current work, I am developing an IT Support Portal as a practice project to better understand Helpdesk and IT Support workflows.
+
+## Current Role
+
+### CPE Staff — TPCOMS
+
+- Support basic CPE operations and network connectivity troubleshooting
+- Use ping, traceroute, and remote CLI tools to collect information and check connectivity issues
+- Gain practical exposure to FTTH, ILL, and tunnel-based connectivity workflows
+- Continue building networking knowledge through work experience and CCNA labs
 
 ## Technical Skills
 
-- **IT Support:** Windows 10/11 installation, drivers, Microsoft Office, PC assembly, hardware diagnostics, remote and onsite support
-- **Networking:** TCP/IP, LAN/Wi-Fi, DNS, DHCP, VLAN, trunking, inter-VLAN routing, ping, traceroute, Cisco Packet Tracer
-- **Systems & Cloud:** Basic Windows Server administration, virtual machine provisioning, VMware Cloud Director
-- **Development:** HTML, CSS, JavaScript, basic Java/Kotlin, REST API integration, PHP and MySQL
+- **Networking & CPE:** TCP/IP, LAN/Wi-Fi, DNS, DHCP, VLAN, trunking, inter-VLAN routing, ping, traceroute, remote CLI, Cisco Packet Tracer
+- **IT Support:** Windows 10/11 installation, drivers, Microsoft Office, PC assembly, hardware diagnostics, basic remote and onsite support
+- **Systems & Cloud:** Basic Windows Server knowledge and virtual machine provisioning practice with VMware Cloud Director
+- **Development:** HTML, CSS, JavaScript, basic Java/Kotlin, REST API integration, PHP, and MySQL
 - **Tools:** Git, GitHub, Postman, Jira, VS Code, Android Studio
 
 ## Featured Projects
 
 ### [IT Support Portal](https://github.com/LePhamNhatLe/it-support-portal)
 
-An internal IT support simulation for managing tickets, devices, users, and network infrastructure.
+A practice project created to learn common Helpdesk and IT Support workflows.
 
-- Three user roles: Technical Lead, Technician, and User
+- Simulates ticket, device, user, and network infrastructure management
+- Includes Technical Lead, Technician, and User roles
 - Authentication, session handling, and role-based access control
-- Ticket, device, user, network, report, and settings modules
 - Built with HTML, CSS, JavaScript, and LocalStorage
 - **Status:** In development
 
@@ -44,8 +55,9 @@ A browser-based MP3 player built with HTML, CSS, and JavaScript.
 ## Currently Learning
 
 - CCNA networking fundamentals and practical labs
-- System and network troubleshooting
-- Ticket handling, root-cause analysis, and technical documentation
+- CPE and network troubleshooting
+- Helpdesk ticket workflows and technical documentation
+- System and cloud fundamentals
 
 ## Contact
 

@@ -1,63 +1,87 @@
 # Lê Phạm Nhật Lễ
 
-**CPE Operations | Network Support | IT Support**
+**CPE & Network Support | IT Helpdesk / Technical Support**
 
-I am currently working as a **CPE Staff member at Công ty Cổ phần Công nghệ Tiên Phát (TPCOMS)** in Ho Chi Minh City, Vietnam.
+I am currently working in a CPE role at **TPCOMS** in Ho Chi Minh City. My career direction focuses on CPE operations, network troubleshooting, IT Helpdesk, and end-user technical support.
 
-My main career direction is **CPE operations, networking, and network support**. Alongside my current work, I am developing an IT Support Portal as a practice project to better understand Helpdesk and IT Support workflows.
+I use GitHub to document practical projects, troubleshooting workflows, network labs, and the technical skills I develop through work and self-study.
 
-## Current Role
+## Professional Experience
 
 ### CPE Staff — TPCOMS
 
-- Support basic CPE operations and network connectivity troubleshooting
-- Use ping, traceroute, and remote CLI tools to collect information and check connectivity issues
-- Gain practical exposure to FTTH, ILL, and tunnel-based connectivity workflows
-- Continue building networking knowledge through work experience and CCNA labs
+- Support CPE deployment and basic network connectivity troubleshooting
+- Assist with FTTH and ILL service-related technical tasks
+- Check connectivity, latency, packet loss, and network paths using `ping`, `tracert`, and remote CLI tools
+- Support router, access point, LAN, and Wi-Fi troubleshooting
+- Record technical information and coordinate during incident handling
+- Continue developing practical networking knowledge through work and CCNA labs
 
 ## Technical Skills
 
-- **Networking & CPE:** TCP/IP, LAN/Wi-Fi, DNS, DHCP, VLAN, trunking, inter-VLAN routing, ping, traceroute, remote CLI, Cisco Packet Tracer
-- **IT Support:** Windows 10/11 installation, drivers, Microsoft Office, PC assembly, hardware diagnostics, basic remote and onsite support
-- **Systems & Cloud:** Basic Windows Server knowledge and virtual machine provisioning practice with VMware Cloud Director
-- **Development:** HTML, CSS, JavaScript, basic Java/Kotlin, REST API integration, PHP, and MySQL
-- **Tools:** Git, GitHub, Postman, Jira, VS Code, Android Studio
+### Networking and CPE
+
+- TCP/IP, IPv4, LAN, WAN, and Wi-Fi fundamentals
+- DNS, DHCP, NAT, and basic VLAN knowledge
+- FTTH, ILL, and CPE deployment fundamentals
+- Connectivity checks using ping, tracert, and ipconfig
+- Basic router, switch, and access point configuration
+- Cisco Packet Tracer and remote CLI practice
+
+### IT Helpdesk and Technical Support
+
+- Windows 10/11 installation and troubleshooting
+- Driver, Microsoft Office, and common software installation
+- PC assembly, component checks, and basic hardware diagnostics
+- Printer, LAN, Wi-Fi, and peripheral troubleshooting
+- Basic onsite and remote end-user support
+- Ticket handling and technical documentation practice
+
+### Tools
+
+- SecureCRT, PuTTY, and Cisco Packet Tracer
+- Git, GitHub, Jira, and Postman
+- VMware Cloud Director fundamentals
+- Android Studio and Visual Studio Code
 
 ## Featured Projects
 
 ### [IT Support Portal](https://github.com/LePhamNhatLe/it-support-portal)
 
-A practice project created to learn common Helpdesk and IT Support workflows.
+A working browser-based Helpdesk practice project for managing technical support requests.
 
-- Simulates ticket, device, user, and network infrastructure management
-- Includes Technical Lead, Technician, and User roles
-- Authentication, session handling, and role-based access control
-- Built with HTML, CSS, JavaScript, and LocalStorage
-- **Status:** In development
+- Create tickets with category, priority, requester, and issue details
+- Assign technicians and update ticket status
+- Record troubleshooting and resolution notes
+- Filter the support queue and view status statistics
+- Store prototype data locally in the browser
+
+**Technology:** HTML, CSS, JavaScript, LocalStorage  
+**Status:** Working prototype; additional modules are planned
 
 ### [App LapStore](https://github.com/LePhamNhatLe/App_LapStore)
 
 An Android laptop shopping application developed with Kotlin and Jetpack Compose.
 
+- REST API integration using Retrofit
+- PHP REST API using PDO and a MySQL database
 - Product search, cart, favorites, orders, reviews, and email OTP
-- REST API integration with Retrofit
-- PHP backend and MySQL database
-- Dark mode and Vietnamese/English interface
+- Coroutines, ViewModels, dark mode, and Vietnamese/English interface
 
-### [Music3Player](https://github.com/LePhamNhatLe/Music3Player)
+## Current Learning
 
-A browser-based MP3 player built with HTML, CSS, and JavaScript.
+- CCNA networking fundamentals and Cisco CLI labs
+- Systematic network troubleshooting
+- Helpdesk workflows and technical documentation
+- Windows, hardware, and infrastructure support
+- Root-cause analysis
 
-- Upload and play local MP3 files
-- Favorites playlist and shuffle playback
-- Responsive music player interface
+## Career Focus
 
-## Currently Learning
-
-- CCNA networking fundamentals and practical labs
-- CPE and network troubleshooting
-- Helpdesk ticket workflows and technical documentation
-- System and cloud fundamentals
+- CPE and Network Support
+- IT Helpdesk
+- Technical Support
+- IT Infrastructure Support
 
 ## Contact
 
